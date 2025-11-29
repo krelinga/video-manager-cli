@@ -3,8 +3,8 @@ module github.com/krelinga/video-manager-cli
 go 1.24.9
 
 require (
-	buf.build/gen/go/krelinga/proto/connectrpc/go v1.19.1-20251116064153-1bb37e38d2c4.2
-	buf.build/gen/go/krelinga/proto/protocolbuffers/go v1.36.10-20251116064153-1bb37e38d2c4.1
+	buf.build/gen/go/krelinga/proto/connectrpc/go v1.19.1-20251129060416-a90504e0f3fa.2
+	buf.build/gen/go/krelinga/proto/protocolbuffers/go v1.36.10-20251129060416-a90504e0f3fa.1
 	connectrpc.com/connect v1.19.1
 	github.com/spf13/cobra v1.10.1
 )
